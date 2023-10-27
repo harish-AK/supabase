@@ -1,2 +1,3 @@
 # supabase
-An alternate for firebase, how to connect supabase in python
+An alternate for firebase,
+A simple python program to connect supabase.
